@@ -4,6 +4,7 @@
 Reading and Counting
 Created on Mon Dec 23 23:46:48 2013
 @author: jhagedorn
+Dystopia Beer
 """
 #%%  Define function, Wordcount
 def wordcount(text):
